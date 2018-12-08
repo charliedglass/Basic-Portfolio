@@ -3,6 +3,8 @@ html{
 }
 body{
     position: relative;
+    /*Background image pattern*/
+    background-image: url("../images/pipes.png");
     min-height: 100%;
     padding: 0;
     margin: 0;
